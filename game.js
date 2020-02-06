@@ -1,4 +1,4 @@
-alert("Welcome to simon game");
+alert(prompt("Enter your name:"));
 var gamePattern=[];
 var userClickedPattern=[];
 var level=0;
