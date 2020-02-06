@@ -1,3 +1,4 @@
+alert("Welcome to simon game");
 var gamePattern=[];
 var userClickedPattern=[];
 var level=0;
