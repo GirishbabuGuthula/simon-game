@@ -1,4 +1,4 @@
-var name=alert(prompt("Enter your name:"));
+var name=prompt("Enter your name:");
 alert("welcome to simon game,"+name);
 var gamePattern=[];
 var userClickedPattern=[];
